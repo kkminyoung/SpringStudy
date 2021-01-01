@@ -15,6 +15,9 @@
    - HTTP - PUT/PATCH Method
    - HTTP - DELETE Method
 - Lombok 과 JPA
+   - Lombok
+   - JPA CRUD
+   - JPA 연관관계 설정
 
 ### lec04 스프링부트(지인정보 관리 시스템 만들기)
 
