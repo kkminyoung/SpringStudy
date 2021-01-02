@@ -5,6 +5,7 @@
 이부분은 학교수업에서 배운 내용이라 skip 하였음!
 
 ## lec03 스프링부트(어드민 페이지)
+### 기초 공부용
 - Intellij, Mysql 설치 (Mysql root 계정 비밀번호 잃어버려서 고치느라 애먹었다 ^_ㅠ)
 - REST API 실습
    - HTTP - GET Method
@@ -15,6 +16,22 @@
    - Lombok
    - JPA CRUD
    - JPA 연관관계 설정
+
+### 프로젝트
+- ERD 설계
+- Table, Entity 생성
+- Repository 생성, 테스트
+- 연관관계 설정
+- 필요한 Query Method 생성
+- JPA의 추가기능
+- Lombok를 이용한 생성자 패턴
+- RestAPI와 CRUD
+- 코드 리팩토링
+   - JPA Enum 형태 값 관리
+   - Null Point 수정
+   - 추상화
+- 샘플데이터
+- 페이징처리   
 
 ## lec04 스프링부트(지인정보 관리 시스템)
 Iteration(반복주기) 개발로 2-cycle 개발 진행
