@@ -1,12 +1,9 @@
-# Java Spring
-동아리에서 제휴한 패스트캠퍼스 강의 수강중 
+# Java Spring & Spring Boot
+동아리에서 제휴한 패스트캠퍼스 강의 수강하며 진행한 프로젝트 정리
 
-## lec01, lec02 
-이부분은 학교수업에서 배운 내용이라 skip 하였음!
-
-## lec03 스프링부트(어드민 페이지)
-### 기초 공부용
-- Intellij, Mysql 설치 (Mysql root 계정 비밀번호 잃어버려서 고치느라 애먹었다 ^_ㅠ)
+## 1. 스프링부트 기초
+[코드-springstudy1](https://github.com/kkminyoung/JavaSpring/tree/master/springstudy1)
+- Intellij, Mysql 설치 및 연결
 - REST API 실습
    - HTTP - GET Method
    - HTTP - POST Method
@@ -17,7 +14,8 @@
    - JPA CRUD
    - JPA 연관관계 설정
 
-### 프로젝트
+## 2. 어드민 페이지(스프링부트)
+[코드-admin](https://github.com/kkminyoung/JavaSpring/tree/master/admin)
 - ERD 설계, Table, Entity 생성
 - Repository 생성, 테스트
 - 연관관계 설정
@@ -32,7 +30,9 @@
 - 샘플데이터
 - 페이징처리   
 
-## lec04 스프링부트(지인정보 관리 시스템)
+## 3. 지인정보 관리 시스템(스프링부트)
+[코드-contact](https://github.com/kkminyoung/JavaSpring/tree/master/contact)
+
 Iteration(반복주기) 개발로 2-cycle 개발 진행
 ### 1-cycle
 1)JPA : data 관련
@@ -84,8 +84,9 @@ Iteration(반복주기) 개발로 2-cycle 개발 진행
 6)Paging : Pageable, Page<T>
 
 
-## lec05 스프링부트(레스토랑 예약 사이트)
+## 4. 레스토랑 예약 사이트(스프링부트)
+[코드-eatgo](https://github.com/kkminyoung/JavaSpring/tree/master/eatgo)
 
-## lec06 스프링 프레임워크 실습 및 프로젝트
+## 5. 스프링 프레임워크 실습 및 프로젝트
 
 
